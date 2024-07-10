@@ -82,6 +82,7 @@ If you encounter any bugs or issues with the dashboard, please open an issue on 
 For feature requests or suggestions to enhance the dashboard functionality, feel free to open a new issue with your ideas.
 
 ## Author
-Aditi Sharma
+- *[Aditi Sharma](https://github.com/yourusername)*
+
 
 Feel free to contact the author(s) with any questions or feedback regarding the HR Analytics Dashboard using Power BI.
